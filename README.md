@@ -1,5 +1,7 @@
 # Prototyping Lab 第2版
 
+![Prototyping Lab Second Edition Cover](https://www.oreilly.co.jp/books/images/picture_large978-4-87311-789-8.jpeg)
+
 このリポジトリは、小林茂（著）『[Prototyping Lab 第2版—「作りながら考える」ためのArduino実践レシピ](https://www.oreilly.co.jp/books/9784873117898/)』オライリー・ジャパン（2017年）で紹介しているサンプル、およびサポートのための情報を提供します。
 
 サンプルなどのファイルをダウンロードするには、画面右の「Clone or download」をクリックし、続けて「Download ZIP」をクリックし、ダウンロードされたZIP形式のファイルを展開します。
@@ -16,7 +18,7 @@
 
 本書の正誤情報および補足情報は以下で公開しています。
 
-`URL` https://github.com/kotobuki/PL2/wiki
+`URL` [https://github.com/kotobuki/PL2/wiki](https://github.com/kotobuki/PL2/wiki)
 
 こちらに掲載されていない誤植など間違いを見つけた方は、お手数ですがjapan＠oreilly.co.jpまでメールにてお知らせください。
 
