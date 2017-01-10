@@ -30,4 +30,4 @@
 
 * examplesフォルダのサンプルは[クリエイティブ・コモンズ・ライセンス CC0 1.0 全世界](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供します
 * ただし、examples/arduino/libraries/FSMはAlexander Brevigが開発し、Terry Kingが更新した[HAL Libraries](http://arduino-info.wikispaces.com/HAL-LibrariesUpdates)の一部に修正を加えたもので、ライセンスはオリジナルに倣い[Creative Commons Attribution Non-Commercial 3.0 License](https://creativecommons.org/licenses/by-nc/3.0/)とします
-* fritzingフォルダのFritzing用部品ライブラリは[クリエイティブ・コモンズ・ライセンス 表示 - 継承 4.0 国際](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)で提供します
+* figuresフォルダの配線図と回路図、fritzingフォルダのFritzing用部品ライブラリは[クリエイティブ・コモンズ・ライセンス 表示 - 継承 4.0 国際](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)で提供します

@@ -2,7 +2,7 @@
 
 ## 動作環境
 
-　本書のサンプルは以下の環境で動作確認しました。
+本書のサンプルは以下の環境で動作確認しました。
 
 * [Arduino Uno R3](http://www.arduino.org/products/boards/arduino-uno)
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software) 1.8.0

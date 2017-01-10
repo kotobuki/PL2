@@ -1,6 +1,6 @@
 # Fritzing用部品ライブラリ
 
-　本書の図版用に作成した部品の図版を、配線図や回路図、プリント基板CADを作成するための統合ツール「[Fritzing](http://fritzing.org/)」用に変換したものです。なお、書籍では2色刷に最適化しているため、Fritzingの[グラフィックに関する標準ルール](http://fritzing.org/fritzings-graphic-standards/)には準拠していません。
+本書の図版用に作成した部品の図版を、配線図や回路図、プリント基板を作成するための統合CADツール「[Fritzing](http://fritzing.org/)」用に変換したものです。なお、本書では2色刷に最適化しているため、Fritzingの[グラフィックに関する標準ルール](http://fritzing.org/fritzings-graphic-standards/)には準拠していません。
 
 ## クレジット
 
