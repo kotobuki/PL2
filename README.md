@@ -4,14 +4,14 @@
 
 このリポジトリは、小林茂（著）『[Prototyping Lab 第2版—「作りながら考える」ためのArduino実践レシピ](https://www.oreilly.co.jp/books/9784873117898/)』オライリー・ジャパン（2017年）で紹介しているサンプル、およびサポートのための情報を提供します。
 
-サンプルなどのファイルをダウンロードするには、画面右の「Clone or download」をクリックし、続けて「Download ZIP」をクリックし、ダウンロードされたZIP形式のファイルを展開します。
-
 ## フォルダ構成
 
 * **examples** - サンプル
 	* **arduino** - Arduino用
 	* **iOS** - iOS用
 	* **processing** - processing用
+* **figures** - 配線図と回路図
+	* **src** - 配線図と回路図の元ファイル（Fritzing用）
 * **fritzing** - Fritzing用の部品ライブラリ
 
 ## 正誤表と補足情報
@@ -20,7 +20,7 @@
 
 `URL` [https://github.com/kotobuki/PL2/wiki](https://github.com/kotobuki/PL2/wiki)
 
-こちらに掲載されていない誤植など間違いを見つけた方は、お手数ですがjapan＠oreilly.co.jpまでメールにてお知らせください。
+こちらに掲載されていない誤植など間違いを見つけた方は、お手数ですが`japan＠oreilly.co.jp`までメールにてお知らせください。
 
 ## 免責事項
 
