@@ -14,6 +14,10 @@
 	* **src** - 配線図と回路図の元ファイル（Fritzing用）
 * **fritzing** - Fritzing用の部品ライブラリ
 
+## 初版からの変更点一覧
+
+第2版にあたり、初版から変更した内容については[変更点一覧](https://github.com/kotobuki/PL2/wiki/Release-Notes)にまとめています。
+
 ## 正誤表と補足情報
 
 本書の正誤情報および補足情報は以下で公開しています。
